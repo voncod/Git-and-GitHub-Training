@@ -1,2 +1,3 @@
-Reforço de Git
-Linha adicionada através de nano no Git Bash
+
+## Reforço de Git Linha adicionada através de nano no Git Bash Linha 
+## Adicionado linha de código através da Branch Staging
