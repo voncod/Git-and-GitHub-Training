@@ -1,1 +1,2 @@
 Reforço de Git
+Linha adicionada através de nano no Git Bash
